@@ -1,11 +1,11 @@
 ## JavaScript_Study_2
 
 
-[EN]<br>
+[EN] <br>
 
 
 
-[TR]<br>
+[TR] <br>
 
 
 <br>
