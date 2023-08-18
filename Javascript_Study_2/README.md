@@ -4,4 +4,4 @@
 1. JavaScript
 1. HTML
 1. CSS
-1.Bootstrap
+1. Bootstrap
