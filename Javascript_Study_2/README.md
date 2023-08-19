@@ -10,8 +10,8 @@
 * Listeye boş karakter eklenmek istendiğinde veya hiçbir değer girişi yapılmadığında toast bildirimi sağ üst köşede ekrana gelir.
 * JavaScript kodu içerisinde element eklemeyi, element silmeyi, yapıldı işaretlenmesini sağlayan bir fonksiyon yapısı var.
 * Değer girişi yapıldığında yani listeye yeni element eklendiğinde toast bildirimi sağ üst köşede ekrana gelir. 
-* Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.Yani
-projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.
+* Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.
+* Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.
 <br>
 
 #### Technologies
