@@ -7,9 +7,9 @@
 
 [TR] <br>
 #### Bu projenin özellikleri
-* Listeye boş karakter eklenmek istendiğinde veya hiçbir değer girişi yapılmadığında toast bildirimi sağ üst köşede ekrana gelir.
+* Listeye boş karakter eklenmek istendiğinde veya hiçbir değer girişi yapılmadığında toast bildirimi sağ üst köşede (You cannot add blanks to do list!) ekrana gelir.
 * JavaScript kodu içerisinde yapılacaklar listesine element eklemeyi, element silmeyi, yapıldı işaretlenmesini sağlayan bir fonksiyon yapısı bulunmaktadır.
-* Değer girişi yapıldığında yani listeye yeni element eklendiğinde toast bildirimi sağ üst köşede ekrana gelir. 
+* Değer girişi yapıldığında yani listeye yeni element eklendiğinde toast bildirimi sağ üst köşede (Added to the list) ekrana gelir. 
 * Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.
 * Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.
 <br>
