@@ -23,8 +23,7 @@ https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9
 * When it is desired to add a blank character to the list or if no value is entered, the toast notification is displayed in the upper right corner (You cannot add blanks to do list!).
 * When a new element is added to the list, toast notification appears in the upper right corner (Added to the list).
 * Bootstrap version 4.6.0 is used in the project.
-* It uses local storage to save the to-do list, so the list can be accessed even if the page is refreshed or closed.
-* In other words, thanks to Local Storage in the structure of the project, we ensure that the data entered in the list is not lost.
+* It uses local storage to save the to-do list, so even if the page is refreshed or closed, the list can be accessed. In other words, thanks to Local Storage in the structure of the project, we ensure that the data entered in the list is not lost. (As in the screenshot above)
 * For the web page background and text box, dark mode, normal mode feature is activated by clicking the button in the upper left corner.
 * You can preview the project from the link given above
 * You can access these features, which are stated as items, from the video above.
