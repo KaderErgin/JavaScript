@@ -36,7 +36,7 @@ https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9
 * Listeye boş karakter eklenmek istendiğinde veya herhangi bir değer girişi yapılmadığında toast bildirimi sağ üst köşede (You cannot add blanks to do list!) ekrana gelir.
 * Listeye yeni element eklendiğinde toast bildirimi sağ üst köşede (Added to the list) ekrana gelir.
 * Projede Bootstrap versiyon 4.6.0 kullanılmıştır.
-* Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.(Yukarıda verilen ekran görüntüsünde de görüldüğü gibi)
+* Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.(Yukarıdaki ekran görüntüsü gibi)
 * Web sayfası arka planı ve metin kutusu için karanlık mod,normal mod özelliği sol üst köşeseki butona tıklanarak aktif hale getirilir.
 * Projenin önizlemesine yukarıda verilen linkten 
 * Maddeler halinde belirtilen bu özelliklere ise yukarıdaki videodan erişebilirsiniz.
