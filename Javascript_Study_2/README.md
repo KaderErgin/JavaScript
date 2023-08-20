@@ -5,7 +5,7 @@
 
 > ToDoApp anahtarı içerisine gönderilen değerler dinamik olarak array ve localstorage içerisinde tutulur.
 
- <img src="img/to_do.jpg"  width="750ox" height="600px">
+ <img src="img/to_do_ss.jpg"  width="750ox" height="600px">
 <hr>
 [EN] <br>
 
