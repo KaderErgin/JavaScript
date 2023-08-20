@@ -10,7 +10,7 @@ https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9
 
 <br>
 
->  Values ​​sent into the ToDoApp key are kept dynamically in array and localstorage.
+>  Values ​​sent into the ToDoApp key are kept dynamically in array and localstorage.<br>
    ToDoApp anahtarı içerisine gönderilen değerler dinamik olarak array ve localstorage içerisinde tutulur.
 
  <img src="img/to_do_ss.jpg"  width="750ox" height="600px"> 
