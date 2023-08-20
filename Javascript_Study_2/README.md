@@ -1,5 +1,3 @@
-
-https://github.com/KaderErgin/JavaScript/assets/86712096/c6937ea4-f66b-4d59-ad1c-18d70b34acf1
 ## JavaScript_Study_2
 
 ### [patika](https://academy.patika.dev/tr/profile)
