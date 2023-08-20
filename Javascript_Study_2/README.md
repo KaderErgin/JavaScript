@@ -19,15 +19,15 @@ https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9
 [EN] <br>
 
 #### Features of this project
-* There is a function structure in the JavaScript code that allows adding, deleting and marking elements.
-* Toast notification is displayed in the upper right corner (You cannot add a space to the to-do list!) when a blank character is wanted to be added to the list or when no value is entered.
-* When a new item is added to the list, toast notification is displayed in the upper right corner (Added to the list).
+* Within the JavaScript code, there is a function structure that allows adding elements to the to-do list, deleting elements, marking done.
+* When it is desired to add a blank character to the list or if no value is entered, the toast notification is displayed in the upper right corner (You cannot add blanks to do list!).
+* When a new element is added to the list, toast notification appears in the upper right corner (Added to the list).
 * Bootstrap version 4.6.0 is used in the project.
-* Hospitals use local storage for their enclosures so the list can be accessed even if the page is refreshed or closed.
-* In other words, in the structure of the project, we use Local Storage, which ensures that the list is not lost.
+* It uses local storage to save the to-do list, so the list can be accessed even if the page is refreshed or closed.
+* In other words, thanks to Local Storage in the structure of the project, we ensure that the data entered in the list is not lost.
 * For the web page background and text box, dark mode, normal mode feature is activated by clicking the button in the upper left corner.
-* From the video on these features specified in items
-* The completion of the project can be accessed from the link given above.
+* You can preview the project from the link given above
+* You can access these features, which are stated as items, from the video above.
 
 [TR] <br>
 
@@ -39,8 +39,9 @@ https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9
 * Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.
 * Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.
 * Web sayfası arka planı ve metin kutusu için karanlık mod,normal mod özelliği sol üst köşeseki butona tıklanarak aktif hale getirilir.
-* Maddeler halinde belirtilen bu özellikleri yukarıdaki videodan
-* Projenin önizlemesine ise yukarıda verilen linkten erişebilirsiniz.
+* Projenin önizlemesine yukarıda verilen linkten 
+* Maddeler halinde belirtilen bu özelliklere ise yukarıdaki videodan erişebilirsiniz.
+
 <hr>
 
 #### Technologies
