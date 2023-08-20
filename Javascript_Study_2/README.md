@@ -14,7 +14,7 @@
 * Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.
 * Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.
 <br>
-
+<hr>
 #### Technologies
 1. JavaScript
 1. HTML
