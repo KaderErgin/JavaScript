@@ -2,6 +2,8 @@
 
 ### [patika](https://academy.patika.dev/tr/profile)
 ### [Click this link for Javascript Time and Welcome Preview](https://kaderergin.github.io/JavaScript/Javascript_Study_2/) 
+
+ToDoApp anahtarı içerisine gönderilen değerler dinamik olarak array ve localstorage içerisinde tutulur.
 <hr>
 [EN] <br>
 
