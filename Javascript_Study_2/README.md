@@ -1,4 +1,4 @@
-## JavaScript_Study_2
+## JavaScript_Study_2(to do list app)
 
 ### [patika](https://academy.patika.dev/tr/profile)
 ### [Click this link for Javascript Time and Welcome Preview](https://kaderergin.github.io/JavaScript/Javascript_Study_2/) 
