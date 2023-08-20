@@ -15,6 +15,8 @@
 * Listeye yeni element eklendiğinde toast bildirimi sağ üst köşede (Added to the list) ekrana gelir. 
 * Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.
 * Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.
+* Web sayfası arka planı ve metin kutusu için karanlık mod,normal mod özelliği sol üst köşeseki butona tıklanarak aktif hale getirilir.
+* Maddeler halinde belirtilen bu özellikleri yukarıdaki videodan, web sayfasına erişebilirsiniz.  
 <hr>
 
 #### Technologies
