@@ -8,8 +8,7 @@
  <img src="img/to_do_ss.jpg"  width="750ox" height="600px"> 
 > Projenin(to do list) videosu
 
-
-Uploading To Do List gif.mp4…
+https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9-80f341389e55
 
 
 <hr>
