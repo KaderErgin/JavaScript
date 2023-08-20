@@ -1,7 +1,7 @@
-## JavaScript_Study_2(to do list app)
+## JavaScript_Study_2(to do list)
 
 ### [patika](https://academy.patika.dev/tr/profile)
-### for Javascript Time and Welcome Preview [Click this link](https://kaderergin.github.io/JavaScript/Javascript_Study_2/) 
+### For to do list preview [Click  this link](https://kaderergin.github.io/JavaScript/Javascript_Study_2/) 
 
 > Projenin(to do list) videosu
 
