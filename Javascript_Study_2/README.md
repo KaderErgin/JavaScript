@@ -1,3 +1,5 @@
+
+https://github.com/KaderErgin/JavaScript/assets/86712096/c6937ea4-f66b-4d59-ad1c-18d70b34acf1
 ## JavaScript_Study_2
 
 ### [patika](https://academy.patika.dev/tr/profile)
@@ -5,9 +7,11 @@
 
 > ToDoApp anahtarı içerisine gönderilen değerler dinamik olarak array ve localstorage içerisinde tutulur.
 
- <img src="img/to_do_ss.jpg"  width="750ox" height="600px">
- <img src="img/To-Do-List.gif"  width="60ox" height="600px">
+ <img src="img/to_do_ss.jpg"  width="750ox" height="600px"> 
+https://github.com/KaderErgin/JavaScript/assets/86712096/912fe0fa-09e7-440e-86d5-dc98bf96d449
+
 <hr>
+
 [EN] <br>
 
 #### Features of this project
