@@ -8,7 +8,9 @@ A web site that displays the current hour.min.sn and day.month.year information 
 <br>
 [TR]<br>
 Kullanıcıdan isim soyisim bilgisini isteyip (baslangıçta örnek isim soyisim bilgisi gösterilir) sonrasında girilen isim soyisimi(ismin ilk harfi soyismin tüm harfleri büyük olucak şekilde ayarlanmıştır)karşılama ekranına yerleştirerek o anki saat.dk.sn ve gun.ay.yıl bilgisini kullanıcıya gösteren bir web sitesi karşılama ekranı.
-<br>
+
+<hr>
+
 #### Technologies
 1. JavaScript
 1. HTML
