@@ -6,7 +6,11 @@
 > ToDoApp anahtarı içerisine gönderilen değerler dinamik olarak array ve localstorage içerisinde tutulur.
 
  <img src="img/to_do_ss.jpg"  width="750ox" height="600px"> 
-https://github.com/KaderErgin/JavaScript/assets/86712096/912fe0fa-09e7-440e-86d5-dc98bf96d449
+> Projenin(to do list) videosu
+
+
+Uploading To Do List gif.mp4…
+
 
 <hr>
 
