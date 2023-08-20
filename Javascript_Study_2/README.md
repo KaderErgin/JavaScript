@@ -3,15 +3,15 @@
 ### [patika](https://academy.patika.dev/tr/profile)
 ### [Click this link for Javascript Time and Welcome Preview](https://kaderergin.github.io/JavaScript/Javascript_Study_2/) 
 
-> ToDoApp anahtarı içerisine gönderilen değerler dinamik olarak array ve localstorage içerisinde tutulur.
-
- <img src="img/to_do_ss.jpg"  width="750ox" height="600px"> 
- 
 > Projenin(to do list) videosu
 
 https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9-80f341389e55
 
+<br>
 
+> ToDoApp anahtarı içerisine gönderilen değerler dinamik olarak array ve localstorage içerisinde tutulur.
+
+ <img src="img/to_do_ss.jpg"  width="750ox" height="600px"> 
 <hr>
 
 [EN] <br>
