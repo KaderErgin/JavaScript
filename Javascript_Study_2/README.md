@@ -1,8 +1,9 @@
 ## JavaScript_Study_2
 
 ### [patika](https://academy.patika.dev/tr/profile)
+<hr>
 [EN] <br>
-
+#### Features of this project
 
 
 [TR] <br>
