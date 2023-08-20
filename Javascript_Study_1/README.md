@@ -1,4 +1,4 @@
-## JavaScript_Study_1
+## JavaScript_Study_1(clock and welcome screen)
 ### [Click this link for Javascript Time and Welcome Preview](https://kaderergin.github.io/JavaScript/Javascript_Study_1/) 
 ### [patika](https://academy.patika.dev/tr/profile)
 ![JavaScript Time and Greeting](https://github.com/KaderErgin/Javascript/blob/master/Javascript_Study_1/img/Javascript-clock-study.gif)
