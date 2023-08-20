@@ -1,5 +1,5 @@
 ## JavaScript_Study_1(clock and welcome screen)
-### Javascript Time and Welcome Preview [Click this link](https://kaderergin.github.io/JavaScript/Javascript_Study_1/) 
+### For javascript Time and Welcome Preview [Click this link](https://kaderergin.github.io/JavaScript/Javascript_Study_1/) 
 ### [patika](https://academy.patika.dev/tr/profile)
 ![JavaScript Time and Greeting](https://github.com/KaderErgin/Javascript/blob/master/Javascript_Study_1/img/Javascript-clock-study.gif)
 [EN]<br>
