@@ -1,6 +1,7 @@
 ## JavaScript_Study_2
 
 ### [patika](https://academy.patika.dev/tr/profile)
+### [Click this link for Javascript Time and Welcome Preview](https://kaderergin.github.io/JavaScript/Javascript_Study_2/) 
 <hr>
 [EN] <br>
 
