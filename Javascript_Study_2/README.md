@@ -6,6 +6,7 @@
 
 
 [TR] <br>
+#### Proje genel açıklama
 #### Bu projenin özellikleri
 * Listeye boş karakter eklenmek istendiğinde veya herhangi bir değer girişi yapılmadığında toast bildirimi sağ üst köşede (You cannot add blanks to do list!) ekrana gelir.
 * JavaScript kodu içerisinde yapılacaklar listesine element eklemeyi, element silmeyi, yapıldı işaretlenmesini sağlayan bir fonksiyon yapısı bulunmaktadır.
