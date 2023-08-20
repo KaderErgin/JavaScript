@@ -13,7 +13,7 @@
 * JavaScript kodu içerisinde yapılacaklar listesine element eklemeyi, element silmeyi, yapıldı işaretlenmesini sağlayan bir fonksiyon yapısı bulunmaktadır.
 * Listeye boş karakter eklenmek istendiğinde veya herhangi bir değer girişi yapılmadığında toast bildirimi sağ üst köşede (You cannot add blanks to do list!) ekrana gelir.
 * Listeye yeni element eklendiğinde toast bildirimi sağ üst köşede (Added to the list) ekrana gelir.
-* Bootstrap versiyon 4.6.0 kullanılmıştır.
+* Projede Bootstrap versiyon 4.6.0 kullanılmıştır.
 * Yapılacaklar listesini kaydetmek için yerel depolamayı kullanır, böylece sayfa yenilense veya kapatılsa bile listeye erişilebilir.
 * Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.
 * Web sayfası arka planı ve metin kutusu için karanlık mod,normal mod özelliği sol üst köşeseki butona tıklanarak aktif hale getirilir.
