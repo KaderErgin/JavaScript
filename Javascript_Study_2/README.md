@@ -18,7 +18,8 @@
 * Yani projedeki yapıda Local Storage sayesinde listeye girilen verilerin kaybolmamasını sağlanmış oluruz.
 * Web sayfası arka planı ve metin kutusu için karanlık mod,normal mod özelliği sol üst köşeseki butona tıklanarak aktif hale getirilir.
 * Maddeler halinde belirtilen bu özellikleri yukarıdaki videodan
-* Projenin önizlemesine ise yukarıda verilen linkten erişebilirsiniz.  
+* Projenin önizlemesine ise yukarıda verilen linkten erişebilirsiniz.
+* js dosyası içerisinde açıklamalara yer verilmiştir.
 <hr>
 
 #### Technologies
