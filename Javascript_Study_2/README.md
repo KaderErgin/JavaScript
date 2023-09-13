@@ -30,7 +30,7 @@ https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9
 
 [TR] <br>
 
-#### Bu projenin özellikleri
+#### Bu proje özellikleri
 * JavaScript kodu içerisinde yapılacaklar listesine element eklemeyi, element silmeyi, yapıldı işaretlenmesini sağlayan bir fonksiyon yapısı bulunmaktadır.
 * Listeye boş karakter eklenmek istendiğinde veya herhangi bir değer girişi yapılmadığında toast bildirimi sağ üst köşede (You cannot add blanks to do list!) ekrana gelir.
 * Listeye yeni element eklendiğinde toast bildirimi sağ üst köşede (Added to the list) ekrana gelir.
