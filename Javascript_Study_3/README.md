@@ -9,7 +9,7 @@
 
 > (European-cuisine-menu) project gif
 
-<img src="img/european_menu.gif"  width="740px" height="410px" >
+<img src="img/european_menu.gif"  >
 <hr>
 
 #### Technologies
