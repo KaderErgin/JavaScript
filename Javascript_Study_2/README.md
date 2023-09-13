@@ -18,7 +18,7 @@ https://github.com/KaderErgin/JavaScript/assets/86712096/0dc50a2a-fc0b-45ea-81c9
 
 [EN] <br>
 
-#### Features of this project
+#### Features of the project
 * Within the JavaScript code, there is a function structure that allows adding elements to the to-do list, deleting elements, marking done.
 * When it is desired to add a blank character to the list or if no value is entered, the toast notification is displayed in the upper right corner (You cannot add blanks to do list!).
 * When a new element is added to the list, toast notification appears in the upper right corner (Added to the list).
