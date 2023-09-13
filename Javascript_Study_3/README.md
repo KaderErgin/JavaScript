@@ -6,7 +6,7 @@
 
 
 
-<img src="img/european_menu.gif"  width="4400px" height="440px">
+<img src="img/european_menu.gif"  width="410px" height="410px">
 <hr>
 
 #### Technologies
