@@ -5,7 +5,7 @@
 > (European-cuisine-menu) project screenshot
 
 ![european-cuisine-menu-project](https://github.com/KaderErgin/JavaScript/blob/master/Javascript_Study_3/img/menu.jpg)
-![european-cuisine-menu-project](https://github.com/KaderErgin/JavaScript/blob/master/Javascript_Study_3/img/european_menu.gif)
+![european-cuisine-menut](https://github.com/KaderErgin/JavaScript/blob/master/Javascript_Study_3/img/european_menu.gif)
 <hr>
 
 #### Technologies
