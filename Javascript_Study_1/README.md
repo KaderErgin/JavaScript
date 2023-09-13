@@ -1,5 +1,7 @@
 ## JavaScript_Study_1(clock and welcome screen)
 ### For javascript Time and Welcome Preview [Click this link](https://kaderergin.github.io/JavaScript/Javascript_Study_1/) 
+<br>
+
 ### [patika](https://academy.patika.dev/tr/profile)
 
 >Clock and welcome screen screenshot
