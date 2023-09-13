@@ -4,7 +4,7 @@
 
 > (European-cuisine-menu) project gif
 
-![european-cuisine-menu](https://github.com/KaderErgin/JavaScript/blob/master/Javascript_Study_3/img/european_menu.gif)
+
 
 <img src="img/european_menu.gif"  width="300ox" height="300px">
 <hr>
