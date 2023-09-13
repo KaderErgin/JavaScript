@@ -6,3 +6,10 @@
 
 ![european-cuisine-menu-project](https://github.com/KaderErgin/JavaScript/blob/master/Javascript_Study_3/img/menu.jpg)
 
+<hr>
+
+#### Technologies
+1. JavaScript
+1. HTML
+1. CSS
+1. Bootstrap
