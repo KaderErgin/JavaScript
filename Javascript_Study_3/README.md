@@ -4,5 +4,5 @@
 
 > (european-cuisine-menu) project screenshot
 
-![european-cuisine-menu-project](https://github.com/KaderErgin/JavaScript/blob/master/Javascript_Study_3/img/menu_ss.jpg)
+![european-cuisine-menu-project](https://github.com/KaderErgin/JavaScript/blob/master/Javascript_Study_3/img/menu.jpg)
 
