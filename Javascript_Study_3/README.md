@@ -8,7 +8,7 @@
 <hr>
 [EN] <br>
 
-#### Features of this project
+#### Features of the project
 * The website, which is in the form of a European cuisine restaurant menu, can be navigated between pages thanks to JavaScript.
 * The content on the site is defined as objects in an array in the form of a menu in JavaScript.
 * Buttons come from the "kitchen.js" file.
