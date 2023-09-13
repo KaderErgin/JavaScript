@@ -3,6 +3,7 @@
 ### For European cuisine menu project preview [Click  this link](https://kaderergin.github.io/JavaScript/Javascript_Study_3/) 
 
 > (European-cuisine-menu) project gif
+
 ![european-cuisine-menu](https://github.com/KaderErgin/JavaScript/blob/master/Javascript_Study_3/img/european_menu.gif)
 <hr>
 
