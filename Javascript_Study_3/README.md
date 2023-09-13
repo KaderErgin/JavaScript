@@ -21,6 +21,7 @@
 * Butonlar "kitchen.js" dosyasindan gelmektedir.
 * Tüm kategorilerdeki yemkeler veya Italy,France,Germany butonlari ile secilen kategorideki yemekler listelenir. 
 <hr>
+
 #### Technologies
 1. JavaScript
 1. HTML
