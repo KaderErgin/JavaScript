@@ -15,7 +15,7 @@
 * Meals in all categories or dishes in the category selected with the Italy, France, Germany buttons are listed.
 
 [TR] <br>
-#### Bu projenin özellikleri
+#### Bu proje özellikleri
 * Avrupa mutfagi restoran menusu seklindeki web sitesi JavaScript sayesinde sayfalar arasında gezinilebilmektedir.
 * Sitedeki icerik JavaScript'te menu seklinde bir dizi icinde objeler olarak tanimlanmistir.
 * Butonlar "kitchen.js" dosyasindan gelmektedir.
