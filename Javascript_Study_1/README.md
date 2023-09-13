@@ -3,7 +3,7 @@
 
 ### [patika](https://academy.patika.dev/tr/profile)
 
-> (Clock and welcome screen) project gif
+> Clock and welcome screen project gif
 
 ![JavaScript Time and Greeting](https://github.com/KaderErgin/Javascript/blob/master/Javascript_Study_1/img/Javascript-clock-study.gif)
 [EN]<br>
