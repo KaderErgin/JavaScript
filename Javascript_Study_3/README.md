@@ -2,11 +2,6 @@
 ### [patika](https://academy.patika.dev/tr/profile)
 ### For European cuisine menu project preview [Click  this link](https://kaderergin.github.io/JavaScript/Javascript_Study_3/) 
 
-> (European-cuisine-menu) project screenshot
-
-
-<img src="img/menu.jpg">
-
 > (European-cuisine-menu) project gif
 
 <img src="img/european_menu.gif"  >
