@@ -6,6 +6,9 @@
 
 
 <img src="img/menu.jpg"  width="640px" height="410px">
+
+> (European-cuisine-menu) project gif
+
 <img src="img/european_menu.gif"  width="640px" height="410px">
 <hr>
 
