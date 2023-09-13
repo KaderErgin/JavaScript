@@ -5,7 +5,7 @@
 > (European-cuisine-menu) project gif
 
 
-<img src="img/menu.jpg"  width="740px" height="510px">
+<img src="img/menu.jpg">
 
 > (European-cuisine-menu) project gif
 
