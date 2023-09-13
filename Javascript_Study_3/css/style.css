@@ -54,3 +54,18 @@ h2 {
   width: 100%;
 }
 
+.menu-title {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+
+h4 {
+  color: #d76d10;
+}
+
+.menu-text {
+  padding-top: 20px;
+}
+
+
