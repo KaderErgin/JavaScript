@@ -5,8 +5,8 @@
 > (European-cuisine-menu) project gif
 
 
-<img src="img/european_menu.gif"  width="540px" height="410px">
-<img src="img/european_menu.gif"  width="540px" height="410px">
+<img src="img/european_menu.gif"  width="40px" height="410px">
+<img src="img/european_menu.gif"  width="40px" height="410px">
 <hr>
 
 #### Technologies
