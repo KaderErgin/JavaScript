@@ -19,7 +19,7 @@
 * Avrupa mutfagi restoran menusu seklindeki web sitesi JavaScript sayesinde sayfalar arasında gezinilebilmektedir.
 * Sitedeki icerik JavaScript'te menu seklinde bir dizi icinde objeler olarak tanimlanmistir.
 * Butonlar "kitchen.js" dosyasindan gelmektedir.
-* Tüm kategorilerdeki yemkeler veya Italy,France,Germany butonlari ile secilen kategorideki yemekler listelenir. 
+* Tüm kategorilerdeki yemekeler veya Italy,France,Germany butonlari ile secilen kategorideki yemekler listelenir. 
 <hr>
 
 #### Technologies
