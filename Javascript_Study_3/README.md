@@ -12,14 +12,14 @@
 * The website, which is in the form of a European cuisine restaurant menu, can be navigated between pages thanks to JavaScript.
 * The content on the site is defined as objects in an array in the form of a menu in JavaScript.
 * Buttons come from the "kitchen.js" file.
-* Meals in all categories or dishes in the category selected with the Italy, France, Germany buttons are listed.
+* Dishes in all categories or dishes in the category selected with the Italy, France, Germany buttons are listed.
 
 [TR] <br>
 #### Projenin özellikleri
 * Avrupa mutfagi restoran menusu seklindeki web sitesi JavaScript sayesinde sayfalar arasında gezinilebilmektedir.
 * Sitedeki icerik JavaScript'te menu seklinde bir dizi icinde objeler olarak tanimlanmistir.
 * Butonlar "kitchen.js" dosyasindan gelmektedir.
-* Tüm kategorilerdeki yemekeler veya Italy,France,Germany butonlari ile secilen kategorideki yemekler listelenir. 
+* Tüm kategorilerdeki yemekler veya Italy,France,Germany butonlari ile secilen kategorideki yemekler listelenir. 
 <hr>
 
 #### Technologies
