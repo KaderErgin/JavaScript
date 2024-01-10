@@ -4,7 +4,7 @@
 
 > (European-cuisine-menu) project gif
 
-<img src="img/european_menu.gif" width="1250px" >
+<img src="img/european_menu.gif" width="2250px" >
 <hr>
 [EN] <br>
 
